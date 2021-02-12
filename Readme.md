@@ -1,4 +1,6 @@
-# Java. Introduction ☼ [Stepik Aulas](https://stepik.org/course/6858)
+# [Stepik](https://stepik.org/) JAVA
+
+## [Java. Introduction](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Introduction) ☼ [Stepik Aulas](https://stepik.org/course/6858)
 
 The course gives the basic information about the Java language. Here you can learn about variables and types and write your very first Java program.
 
@@ -15,7 +17,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [x] 1.9 Character
 - [x] 1.10 Type Casting
 
-# Java. Statements and Arrays ☼ [Stepik Aulas](https://stepik.org/course/6859)
+## [Java. Statements and Arrays](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Statements_and_Arrays) ☼ [Stepik Aulas](https://stepik.org/course/6859)
 
 - [x] 1.1 Conditional statements
 - [x] 1.2 Switch statements
@@ -27,7 +29,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [x] 1.8 Multi-dimensional array
 - [x] 1.9 Boxing
 
-# Java. Classes ☼ [Stepik Aulas](https://stepik.org/course/6864)
+## Java. Classes ☼ [Stepik Aulas](https://stepik.org/course/6864)
 
 - [ ] 1.1 Objects
 - [ ] 1.2 Methods
@@ -40,7 +42,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [ ] 1.9 The Object class
 - [ ] 1.10 Generics Basics
 
-# Java. Collections ☼ [Stepik Aulas](https://stepik.org/course/6860)
+## Java. Collections ☼ [Stepik Aulas](https://stepik.org/course/6860)
 
 - [ ] 1.1 List
 - [ ] 1.2 Queue and Stack
@@ -49,13 +51,13 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [ ] 1.5 Iterator
 - [ ] 1.6 Collections utility class
 
-# Java. Functional programming ☼ [Stepik Aulas](https://stepik.org/course/1595)
+## Java. Functional programming ☼ [Stepik Aulas](https://stepik.org/course/1595)
 
-## 1  Introduction
+### 1  Introduction
 
 - [ ] 1.1  The general course information
 
-## 2  Functional interfaces, lambda expressions and methods references
+### 2  Functional interfaces, lambda expressions and methods references
 
 - [ ] 2.1  [THEORY] Lambda expressions and method references
 - [ ] 2.2  Identify the correct lambdas and method references
@@ -65,7 +67,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [ ] 2.6  Getting distinct strings
 - [ ] 2.7  Writing closures
 
-## 3  Standard and custom functional interfaces
+### 3  Standard and custom functional interfaces
 
 - [ ] 3.1  [THEORY] Functions are objects
 - [ ] 3.2  Replacing anonymous classes with lambda expressions
@@ -77,7 +79,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [ ] 3.8  Usage of comparators and composition for sorting
 - [ ] 3.9  [HARD] The chain of responsibility
 
-## 4  Functional data processing with Stream API
+### 4  Functional data processing with Stream API
 
 - [ ] 4.1  [THEORY] Introduction to streams
 - [ ] 4.2  Test your knowledge of stream operations
@@ -102,7 +104,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 
 - [ ] 4.12  The total sum of canceled transactions
 
-## 5  Other capabilities of streams
+### 5  Other capabilities of streams
 
 - [ ] 5.1  [THEORY] Collectors
 - [ ] 5.2  Choose the existing collectors
@@ -121,7 +123,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 
 - [ ] 5.9  Parallel filtering of prime numbers
 
-## 6  Advanced concepts of functional programming
+### 6  Advanced concepts of functional programming
 
 - [ ] 6.1  [THEORY] Returning functions and currying
 
