@@ -1,6 +1,6 @@
 # [Stepik](https://stepik.org/) JAVA
 
-## [Java. Introduction](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Introduction) ☼ [Stepik Aulas](https://stepik.org/course/6858)
+## [Java. Introduction](https://github.com/kakanew/Stepik_JAVA/tree/master/LESSONS_Java_Introduction) ☼ [Stepik Aulas](https://stepik.org/course/6858)
 
 The course gives the basic information about the Java language. Here you can learn about variables and types and write your very first Java program.
 

@@ -1,6 +1,6 @@
 # [Stepik](https://stepik.org/) JAVA
 
-## [Java. Statements and Arrays](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Statements_and_Arrays) ☼ [Stepik Aulas](https://stepik.org/course/6859)
+## [Java. Statements and Arrays](https://github.com/kakanew/Stepik_JAVA/tree/master/LESSONS_Java_Statements_and_Arrays) ☼ [Stepik Aulas](https://stepik.org/course/6859)
 
 - [x] 1.1 Conditional statements
 - [x] 1.2 Switch statements

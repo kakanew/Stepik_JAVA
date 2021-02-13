@@ -1,6 +1,6 @@
 # [Stepik](https://stepik.org/) JAVA
 
-## [Java. Introduction](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Introduction) ☼ [Stepik Aulas](https://stepik.org/course/6858)
+## [Java. Introduction](https://github.com/kakanew/Stepik_JAVA/tree/master/LESSONS_Java_Introduction) ☼ [Stepik Aulas](https://stepik.org/course/6858)
 
 The course gives the basic information about the Java language. Here you can learn about variables and types and write your very first Java program.
 
@@ -17,7 +17,7 @@ The course includes theory lessons, quizzes, and programming practice assignment
 - [x] 1.9 Character
 - [x] 1.10 Type Casting
 
-## [Java. Statements and Arrays](https://github.com/kakanew/Stepik_JAVA/tree/master/Stepik_Java_Statements_and_Arrays) ☼ [Stepik Aulas](https://stepik.org/course/6859)
+## [Java. Statements and Arrays](https://github.com/kakanew/Stepik_JAVA/tree/master/LESSONS_Java_Statements_and_Arrays) ☼ [Stepik Aulas](https://stepik.org/course/6859)
 
 - [x] 1.1 Conditional statements
 - [x] 1.2 Switch statements
